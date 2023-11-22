@@ -1,5 +1,3 @@
-# Youtube-Clone
-
 # Infinite - ReactJS YouTube Clone
 
 # Welcome to "Infinite" - a ReactJS YouTube clone that brings endless exploration to your fingertips! This project is a result of my passion for web development and the desire to create a seamless and engaging user experience.
